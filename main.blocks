@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id=",?.D2E78c?_-6;`(a9kq" x="0" y="0"></block><block type="readdht11" id="P$u~55(];G$w9J7QUfHE" disabled="true" x="36" y="55"><field name="dht11type">ModuleWorld_Digital.DHT11Type.DHT11_temperature_C</field><field name="value_DNum">ModuleWorld_Digital.mwDigitalNum.P0P1</field></block></xml>
